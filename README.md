@@ -10,6 +10,84 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Exchange Libraries](#exchange-libs)
     - [Arbitrage Libraries](#arbirage-libs)
 
+
+
+## Exchange Python Libraries
+
+*Python Libraries for exchanges.*
+
+
+
+* [Bittrex](https://github.com/ericsomdahl/python-bittrex) 
+* [Bithumb]() 
+* [Binance](https://github.com/sammchardy/python-binance) 
+* [Bitfinex](https://github.com/sammchardy/python-kucoin) 
+* [Idex](https://github.com/sammchardy/python-idex) 
+* [Koinex]() - Work in Progress 
+* [Kraken](https://github.com/veox/python3-krakenex)
+* [Kucoin](https://github.com/sammchardy/python-kucoin) 
+* [Quoine](https://github.com/sammchardy/python-quoine) 
+* [YoBit](https://github.com/NanoBjorn/yobit) 
+
+TODO 
+* [Huobi]() 
+* [HitBTC]() 
+* [Coinone]() 
+* [GDAX]() 
+* [Poloniex]() 
+* [Bitstamp]() 
+* [Bit-Z]() 
+* [Korbit]() 
+* [ZB.COM]() 
+* [BTCC]() 
+* [Coinnest]() 
+* [Liqui]() 
+* [Gemini]() 
+* [bitFlyer]() 
+* [Gate.io]() 
+* [CoinEgg]() 
+* [EXX]() 
+* [Cryptopia]() 
+* [Bibox]() 
+* [Lbank]() 
+* [Coinrail]() 
+* [Exmo]() 
+* [Bits Blockchain]() 
+* [OKEx]() 
+* [CoinsBank]() 
+* [Livecoin]() 
+* [AEX]() 
+* [LakeBTC]() 
+* [CEX.IO]() 
+* [BigONE]() 
+* [CoinExchange]() 
+* [Bitcoin Indonesia]() 
+* [WEX]() 
+* [Tidex]() 
+* [itBit]() 
+* [Zaif]() 
+* [Bitbank]() 
+* [OkCoin Intl.]() 
+* [Gatecoin]() 
+* [BTC Markets]() 
+* [BitBay]() 
+* [GetBTC]() 
+* [QuadrigaCX]() 
+* [BX Thailand]() 
+* [Allcoin]() 
+* [BCC Exchange]() 
+* [BitShares Asset Exchange]() 
+* [RightBTC]() 
+
+
+## Arbitrage Libraries
+
+*Libraries for arbitrage.*
+
+* [TODO]() 
+
+
+<!---
 ## Portfolio 
 *Portfolio Apps*
 
@@ -18,28 +96,4 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Delta](https://play.google.com/store/apps/details?id=io.getdelta.android&hl=en) 
 * [CoinTrackr](https://www.producthunt.com/r/fe399fd18df896) 
 * [cointracking.info](https://cointracking.info/)
-
-## Exchange Python Libraries
-
-*Python Libraries for exchanges.*
-
-* [Bittrex](https://github.com/ericsomdahl/python-bittrex) 
-* [Binance](https://github.com/sammchardy/python-binance) 
-* [Bitfinex](https://github.com/sammchardy/python-kucoin) 
-* [Idex](https://github.com/sammchardy/python-idex) 
-* [Koinex]() - Work in Progress 
-* [Kucoin](https://github.com/sammchardy/python-kucoin) 
-* [Quoine](https://github.com/sammchardy/python-quoine) 
-* [YoBit](https://github.com/NanoBjorn/yobit) 
-
-## Exchange PHP Libraries
-
-*PHP Libraries for exchanges.*
-
-* [Bittrex]() - Please Contribute
-
-## Arbitrage Libraries
-
-*Libraries for arbitrage.*
-
-* [TODO]() 
+--> 
