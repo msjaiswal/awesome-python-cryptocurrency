@@ -12,6 +12,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Python Cryptocurrency](#awesome-python-cryptocurrency)
     - [Exchange Libraries](#exchange-libs)
+    - [Arbitrage Libraries](#arbirage-libs)
 
 
 ## Exchange Libraries
@@ -28,3 +29,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [YoBit](https://github.com/NanoBjorn/yobit) 
 
 
+## Arbitrage Libraries
+
+*Libraries for arbitrage.*
+
+* [TODO]() 
