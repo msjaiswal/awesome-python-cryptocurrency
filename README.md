@@ -6,6 +6,8 @@
 
 A curated list of awesome Python Cryptocurrency frameworks, libraries, software and resources.
 
+*Please send a pull request to add to this list and make it truely AWESOME*
+
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Python Cryptocurrency](#awesome-python-cryptocurrency)
