@@ -14,7 +14,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Portfolio Apps*
 
 * [Crypto Compare](https://www.cryptocompare.com/portfolio/) 
-
+* [Blockfolio](https://www.blockfolio.com/) 
+* [Delta](https://play.google.com/store/apps/details?id=io.getdelta.android&hl=en) 
+* [CoinTrackr](https://www.producthunt.com/r/fe399fd18df896) 
+* [cointracking.info](https://cointracking.info/
 
 ## Exchange Python Libraries
 
