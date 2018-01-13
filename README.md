@@ -20,6 +20,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [Bittrex](https://github.com/ericsomdahl/python-bittrex) 
 * [Binance](https://github.com/sammchardy/python-binance) 
+* [Bitfinex](https://github.com/sammchardy/python-kucoin) 
 * [Idex](https://github.com/sammchardy/python-idex) 
+* [Koinex]() - Work in Progress 
+* [Kucoin](https://github.com/sammchardy/python-kucoin) 
 * [Quoine](https://github.com/sammchardy/python-quoine) 
+* [YoBit](https://github.com/NanoBjorn/yobit) 
+
 
