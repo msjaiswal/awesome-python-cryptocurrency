@@ -20,5 +20,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [Bittrex](https://github.com/ericsomdahl/python-bittrex) 
 * [Binance](https://github.com/sammchardy/python-binance) 
-
+* [Idex](https://github.com/sammchardy/python-idex) 
+* [Quoine](https://github.com/sammchardy/python-quoine) 
 
